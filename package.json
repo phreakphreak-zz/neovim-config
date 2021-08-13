@@ -1,0 +1,19 @@
+{
+  "name": "neovim-config",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "releases": "standard-version"
+  },
+  "keywords": [],
+  "author": "Michael Zabala (Mike)",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.3.1"
+  }
+}
